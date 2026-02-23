@@ -7,7 +7,7 @@ The app displays featured movies, new releases, and recommended movies with a bo
 
 ## 📸 App Preview
 
-![App Screenshot]([./assets/app_preview.png](https://github.com/dev-gerges-sadek/movie_app/blob/main/assets/image.png?raw=true))
+![App Screenshot](https://raw.githubusercontent.com/dev-gerges-sadek/movie_app/main/assets/image.png)
 
 ---
 
