@@ -7,7 +7,7 @@ The app displays featured movies, new releases, and recommended movies with a bo
 
 ## 📸 App Preview
 
-![App Screenshot](assets/app_preview.png)
+![App Screenshot](./assets/app_preview.png)
 
 ---
 
@@ -42,3 +42,4 @@ The app displays featured movies, new releases, and recommended movies with a bo
 ```bash
 flutter pub get
 flutter run
+
